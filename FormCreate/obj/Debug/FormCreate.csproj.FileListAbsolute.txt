@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FormCreate\FormCreate\bin\Debug\FormCreate.exe.config
+C:\Users\User\source\repos\FormCreate\FormCreate\bin\Debug\FormCreate.exe
+C:\Users\User\source\repos\FormCreate\FormCreate\bin\Debug\FormCreate.pdb
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.Form1.resources
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.Form2.resources
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.Properties.Resources.resources
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.exe
+C:\Users\User\source\repos\FormCreate\FormCreate\obj\Debug\FormCreate.pdb
